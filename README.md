@@ -1,6 +1,8 @@
 # Decentralized-learning-approach-with-handwritten-data
 The federated learning approach for handwritten data. The comparison between without parellelization and with parellelization was plotted. 
 
+![image](https://github.com/rahul13289/Decentralized-learning-approach-with-handwritten-data/assets/97829880/b39a44ee-473a-4855-93df-2dae3ef3bbc8) 
+
 Introduction 
       MNIST is a widely used dataset of handwritten digits that contains 60,000 handwritten digits for training a machine learning model and 10,000 handwritten digits for testing the model. It was introduced in 1998 and has become a standard benchmark for classification tasks. It is also called the “Hello, World” dataset as it’s very easy to use. MNIST was derived from an even larger dataset, the NIST special database which not only contains digits but also uppercase and lowercase handwritten letters.
 
